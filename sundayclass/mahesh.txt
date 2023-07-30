@@ -1,0 +1,9 @@
+Mahesh is new to devops batch
+
+{
+
+print("mahesh is new to devops batch)
+
+}
+
+siva is also added to batch
